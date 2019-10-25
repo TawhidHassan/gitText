@@ -13,11 +13,5 @@ function king()
 }
 ?>
 
-<?php
-function callme()
-{
- echo "hello sifat";
-}
 
-?>
 
