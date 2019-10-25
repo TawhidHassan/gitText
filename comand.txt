@@ -12,4 +12,8 @@ git config --global user.name "sifat"
 9)git branch
 10)git branch branch2
 11)git checkout branch2
+<<<<<<< HEAD
 12)git merge branchName
+=======
+12)
+>>>>>>> branch2
